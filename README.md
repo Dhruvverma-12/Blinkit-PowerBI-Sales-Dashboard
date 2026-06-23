@@ -233,7 +233,7 @@ Blinkit-Sales-Analytics-Dashboard/
 │      └── blinkit_sales_data.csv
 │
 ├── Assets/
-│      └── dashboard.png
+│      └── Snapshot of Blinkit Sales Analytics Dashboard.png
 │
 ├── README.md
 │
